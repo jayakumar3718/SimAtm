@@ -41,7 +41,6 @@ public class CreationATM {
 	                "denomination=" + denomination +
 	                ", number=" + number +
 	                ", value=" + value +
-	                '}';
+	                };
 	    }
-
 	}
