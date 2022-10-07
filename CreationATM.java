@@ -34,13 +34,5 @@ public class CreationATM {
 	    public void setValue(int value) {
 	        this.value = value;
 	    }
-
-	    @Override
-	    public String toString() {
-	        return "CreationATM{" +
-	                "denomination=" + denomination +
-	                ", number=" + number +
-	                ", value=" + value +
-	                };
 	    }
 	}
